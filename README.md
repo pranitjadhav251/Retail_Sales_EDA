@@ -120,3 +120,20 @@ The following steps were performed:
 ---
 
 ## 📁 Project Structure
+
+├── data/
+│ └── sales_dataset.csv
+├── notebooks/
+│ └── EDA_analysis.ipynb
+├── visuals/
+│ └── charts_and_plots/
+├── README.md
+
+## 📌 Conclusion
+This project demonstrates how **EDA techniques** can convert raw sales data into
+valuable business insights that support better pricing, marketing, and customer strategies.
+
+---
+
+## 👤 Author
+**Pranit Jadhav**
